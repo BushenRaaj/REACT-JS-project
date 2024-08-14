@@ -1,0 +1,16 @@
+footer {
+    background-color:blueviolet;
+    padding: 10px 0;
+    font-size: x-large;
+  }
+  
+.nav1 {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+.nav1 li {
+    margin: 0 15px;
+    list-style-type: none;
+  }

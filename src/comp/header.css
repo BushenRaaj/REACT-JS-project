@@ -1,0 +1,16 @@
+header {
+    background-color:blueviolet;
+    padding: 10px 0;
+    font-size: x-large;
+  }
+  
+.navlink {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+.navlink li {
+    margin: 0 15px;
+    list-style-type: none;
+  }
